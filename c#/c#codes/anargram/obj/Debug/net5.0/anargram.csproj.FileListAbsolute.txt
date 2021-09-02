@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\bin\Debug\net5.0\anargram.exe
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\bin\Debug\net5.0\anargram.deps.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\bin\Debug\net5.0\anargram.runtimeconfig.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\bin\Debug\net5.0\anargram.runtimeconfig.dev.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\bin\Debug\net5.0\anargram.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\bin\Debug\net5.0\ref\anargram.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\bin\Debug\net5.0\anargram.pdb
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\anargram.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\anargram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\anargram.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\anargram.AssemblyInfo.cs
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\anargram.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\anargram.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\ref\anargram.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\anargram.pdb
+C:\Users\USER\Documents\Devlopement\c#\c#codes\anargram\obj\Debug\net5.0\anargram.genruntimeconfig.cache

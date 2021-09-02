@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.exe
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.deps.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.runtimeconfig.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.runtimeconfig.dev.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\bin\Debug\net5.0\ref\PalindromeCheck.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.pdb
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.AssemblyInfo.cs
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\ref\PalindromeCheck.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.pdb
+C:\Users\USER\Documents\Devlopement\c#\c#codes\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.genruntimeconfig.cache

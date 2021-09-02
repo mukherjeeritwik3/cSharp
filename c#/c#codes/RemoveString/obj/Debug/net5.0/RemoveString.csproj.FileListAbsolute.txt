@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\bin\Debug\net5.0\RemoveString.exe
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\bin\Debug\net5.0\RemoveString.deps.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\bin\Debug\net5.0\RemoveString.runtimeconfig.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\bin\Debug\net5.0\RemoveString.runtimeconfig.dev.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\bin\Debug\net5.0\RemoveString.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\bin\Debug\net5.0\ref\RemoveString.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\bin\Debug\net5.0\RemoveString.pdb
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\RemoveString.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\RemoveString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\RemoveString.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\RemoveString.AssemblyInfo.cs
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\RemoveString.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\RemoveString.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\ref\RemoveString.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\RemoveString.pdb
+C:\Users\USER\Documents\Devlopement\c#\c#codes\RemoveString\obj\Debug\net5.0\RemoveString.genruntimeconfig.cache

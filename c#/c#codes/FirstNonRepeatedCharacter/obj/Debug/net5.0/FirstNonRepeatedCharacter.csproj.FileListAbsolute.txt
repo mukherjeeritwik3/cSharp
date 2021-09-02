@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\bin\Debug\net5.0\FirstNonRepeatedCharacter.exe
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\bin\Debug\net5.0\FirstNonRepeatedCharacter.deps.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\bin\Debug\net5.0\FirstNonRepeatedCharacter.runtimeconfig.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\bin\Debug\net5.0\FirstNonRepeatedCharacter.runtimeconfig.dev.json
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\bin\Debug\net5.0\FirstNonRepeatedCharacter.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\bin\Debug\net5.0\ref\FirstNonRepeatedCharacter.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\bin\Debug\net5.0\FirstNonRepeatedCharacter.pdb
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\FirstNonRepeatedCharacter.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\FirstNonRepeatedCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\FirstNonRepeatedCharacter.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\FirstNonRepeatedCharacter.AssemblyInfo.cs
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\FirstNonRepeatedCharacter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\FirstNonRepeatedCharacter.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\ref\FirstNonRepeatedCharacter.dll
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\FirstNonRepeatedCharacter.pdb
+C:\Users\USER\Documents\Devlopement\c#\c#codes\FirstNonRepeatedCharacter\obj\Debug\net5.0\FirstNonRepeatedCharacter.genruntimeconfig.cache
